@@ -1,4 +1,10 @@
 ### Hi there 👋
+欢迎来到我的个人主页，希望以下资料对大家有帮助：
+
+## 我的开源项目：
+
+### 开源项目 🔭
+* [Work-Scripts](https://github.com/phklee/Work-Scripts)：记录工作常用脚本
 
 <!--
 **phklee/phklee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
